@@ -1,0 +1,106 @@
+{
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2025-09-24 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/root": {
+    "criteria": {
+      "always": "2025-09-24 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-09-24 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2025-09-24 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-09-24 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-09-24 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:root": {
+    "criteria": {
+      "tick": "2025-09-24 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-09-24 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-24 23:54:12 +0000"
+    },
+    "done": false
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2025-09-24 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-24 23:54:12 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-09-24 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2025-09-24 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-24 23:54:12 +0000"
+    },
+    "done": false
+  },
+  "whisperwoods:recipes/whisperwoods/hand_of_fate": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-24 23:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2025-09-24 23:55:01 +0000",
+      "minecraft:stony_shore": "2025-09-24 23:54:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-09-24 23:54:12 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
