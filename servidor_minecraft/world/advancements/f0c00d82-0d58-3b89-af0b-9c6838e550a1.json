@@ -91,13 +91,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-09-25 22:00:29 +0000",
+      "minecraft:sunflower_plains": "2025-09-25 21:49:40 +0000",
       "minecraft:bamboo_jungle": "2025-09-25 02:44:16 +0000",
       "minecraft:sparse_jungle": "2025-09-25 02:40:30 +0000",
       "minecraft:lukewarm_ocean": "2025-09-25 02:40:55 +0000",
       "minecraft:river": "2025-09-25 03:26:12 +0000",
       "minecraft:stony_shore": "2025-09-25 02:31:46 +0000",
       "minecraft:lush_caves": "2025-09-25 03:07:58 +0000",
-      "minecraft:jungle": "2025-09-25 03:29:17 +0000"
+      "minecraft:jungle": "2025-09-25 03:29:17 +0000",
+      "minecraft:plains": "2025-09-25 21:50:14 +0000"
     },
     "done": false
   },
@@ -631,6 +634,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-09-25 22:02:32 +0000",
       "glow_berries": "2025-09-25 03:09:18 +0000"
     },
     "done": false
@@ -1423,81 +1427,118 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-09-25 03:37:56 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-09-25 03:40:08 +0000"
+      "log_spam_fixer": "2025-09-25 22:02:08 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-09-25 03:40:08 +0000"
+      "log_spam_fixer": "2025-09-25 22:02:08 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-09-25 03:40:08 +0000"
+      "log_spam_fixer": "2025-09-25 22:02:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-09-25 03:40:08 +0000"
+      "requirement": "2025-09-25 22:02:42 +0000",
+      "log_spam_fixer": "2025-09-25 22:02:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-09-25 03:40:08 +0000"
+      "log_spam_fixer": "2025-09-25 22:02:08 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-09-25 03:40:08 +0000"
+      "log_spam_fixer": "2025-09-25 22:02:08 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-09-25 03:40:08 +0000"
+      "log_spam_fixer": "2025-09-25 22:02:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-09-25 03:40:08 +0000"
+      "log_spam_fixer": "2025-09-25 22:02:08 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-09-25 03:40:08 +0000"
+      "log_spam_fixer": "2025-09-25 22:02:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-09-25 03:40:08 +0000"
+      "log_spam_fixer": "2025-09-25 22:02:08 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-09-25 03:40:08 +0000"
+      "log_spam_fixer": "2025-09-25 22:02:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-09-25 03:40:08 +0000"
+      "log_spam_fixer": "2025-09-25 22:02:08 +0000"
     },
     "done": false
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "slept_in_bed": "2025-09-25 03:37:56 +0000"
+      "has_egg": "2025-09-25 22:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-09-25 22:01:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-09-25 22:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-09-25 21:59:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-09-25 21:58:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-09-25 22:01:34 +0000"
     },
     "done": true
   },
