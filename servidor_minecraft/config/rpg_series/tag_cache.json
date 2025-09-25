@@ -50,14 +50,6 @@
       "wizards:frost_robe_legs"
     ],
     "rpg_series:tier_3_armors": [
-      "paladins:netherite_crusader_armor_head",
-      "paladins:netherite_crusader_armor_chest",
-      "paladins:netherite_crusader_armor_legs",
-      "paladins:netherite_crusader_armor_feet",
-      "paladins:netherite_prior_robe_head",
-      "paladins:netherite_prior_robe_chest",
-      "paladins:netherite_prior_robe_legs",
-      "paladins:netherite_prior_robe_feet",
       "wizards:netherite_arcane_robe_head",
       "wizards:netherite_arcane_robe_chest",
       "wizards:netherite_arcane_robe_legs",
@@ -72,9 +64,7 @@
       "wizards:netherite_frost_robe_feet"
     ],
     "rpg_series:tier_0_accessories": [],
-    "rpg_series:tier_1_accessories": [
-      "paladins:iron_kite_shield"
-    ],
+    "rpg_series:tier_1_accessories": [],
     "rpg_series:tier_3_weapons": [
       "paladins:netherite_mace",
       "paladins:netherite_great_hammer",
@@ -84,12 +74,8 @@
       "wizards:staff_netherite_fire",
       "wizards:staff_netherite_frost"
     ],
-    "rpg_series:tier_2_accessories": [
-      "paladins:diamond_kite_shield"
-    ],
-    "rpg_series:tier_3_accessories": [
-      "paladins:netherite_kite_shield"
-    ],
+    "rpg_series:tier_2_accessories": [],
+    "rpg_series:tier_3_accessories": [],
     "rpg_series:tier_1_weapons": [
       "paladins:iron_mace",
       "paladins:iron_great_hammer",
@@ -103,8 +89,7 @@
     "rpg_series:golden_weapons": [
       "paladins:golden_claymore",
       "paladins:golden_great_hammer",
-      "paladins:golden_mace",
-      "paladins:golden_kite_shield"
+      "paladins:golden_mace"
     ],
     "rpg_series:tier_2_weapons": [
       "paladins:diamond_mace",
