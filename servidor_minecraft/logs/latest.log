@@ -999,3 +999,33 @@ Apply Modifications for minecraft:the_end
 [01:15:32] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/rpg1/servidor_minecraft/bclib-sync (allowDelete=true)
 [01:15:39] [Netty Epoll Acceptor IO Thread/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[01:22:10] [Server thread/WARN]: Pikel_03 was kicked for floating too long!
+[01:22:10] [Server thread/INFO]: Pikel_03 lost connection: Flying is not enabled on this server
+[01:22:10] [Server thread/INFO]: Pikel_03 left the game
+[01:22:10] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[01:22:18] [Server thread/INFO]: Pikel_03[/127.219.55.4:51769] logged in with entity id 2370 at (358.31645718137275, 65.00133597911214, -32.972077839594505)
+[01:22:18] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[01:22:18] [Server thread/INFO]: Loading config from file...
+[01:22:18] [Server thread/INFO]: Pikel_03 joined the game
+[01:22:18] [Server thread/INFO]: Player Pikel_03 just logged in with id afc4c9dd-8d66-358b-8b8b-98baedbba298
+[01:22:18] [ForkJoinPool-5-worker-3/INFO]: Loading local skin for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
+[01:22:18] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[01:22:18] [ForkJoinPool-5-worker-3/INFO]: File https://playerdb.co/api/player/minecraft/Pikel_03 downloaded
+[01:22:19] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:22:19] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:22:19] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:22:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:22:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:22:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:22:19] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/rpg1/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:22:45] [Server thread/INFO]: Pikel_03 was slain by Drowned
+[01:22:47] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[01:23:10] [Server thread/INFO]: Pikel_03 was slain by Drowned
+[01:23:11] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[01:23:16] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[01:25:36] [Worker-Main-2/WARN]: Non-existent template pool reference: minecraft:minecraft_empty
+[01:25:55] [Worker-Main-2/INFO]: [STDOUT]: Distance from spawn is: 769
+[01:26:33] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 408.500000, 67.500000, 21.500000]
+[01:26:58] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[01:26:58] [Server thread/INFO]: Pikel_03 left the game
+[01:26:58] [Server thread/INFO]: Removing session data for player Pikel_03[afc4c9dd-8d66-358b-8b8b-98baedbba298]
