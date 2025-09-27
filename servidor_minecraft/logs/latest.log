@@ -859,3 +859,17 @@ Apply Modifications for deeperdarker:otherside
 [16:34:44] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
 [16:34:45] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
 [16:34:47] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 434.500000, -7.500000, -397.500000]
+[16:35:38] [Server thread/INFO]: [Pikel_03: Set own game mode to Spectator Mode]
+[16:35:41] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[16:35:49] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[16:35:53] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[16:36:00] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[16:36:11] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[16:36:24] [Server thread/INFO]: Portal not located for entity class_3222['Pikel_03'/8, l='ServerLevel[world]', x=441.38, y=-4.00, z=-386.70] at null
+[16:36:57] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:36:57] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:36:57] [Server thread/INFO]: Pikel_03 has made the advancement [Incendium]
+[16:36:57] [Server thread/INFO]: Pikel_03 has made the advancement [We Need to Go Deeper]
+[16:37:27] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
+[16:37:27] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[16:37:27] [Server Watchdog/ERROR]: This crash report has been saved to: /workspaces/rpg1/servidor_minecraft/./crash-reports/crash-2025-09-27_16.37.27-server.txt
